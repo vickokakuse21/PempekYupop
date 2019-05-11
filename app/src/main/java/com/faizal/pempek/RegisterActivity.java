@@ -22,6 +22,7 @@ import com.google.firebase.database.ValueEventListener;
 import java.util.HashMap;
 
 public class RegisterActivity extends AppCompatActivity {
+
     private Button CreateAccountButton;
     private EditText InputUsername, InputPhoneNumber, InputPassword;
     private ProgressDialog loadingBar;
