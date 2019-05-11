@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "294233232867",
+    "firebase_url": "https://pempek-21a9d.firebaseio.com",
+    "project_id": "pempek-21a9d",
+    "storage_bucket": "pempek-21a9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294233232867:android:9c8c5bc86edc6dea",
+        "android_client_info": {
+          "package_name": "com.faizal.pempek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294233232867-2vmjaof6sn2l6pmd25ou0m9607vmviaj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.faizal.pempek",
+            "certificate_hash": "e7b28e1717b250872395a4fd04edfd479d730793"
+          }
+        },
+        {
+          "client_id": "294233232867-tkjs873npl5aldudbb3h41obsfhlv3vv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH1SaQvvVWc_SosaV2t9h2KpYfPuBKQBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294233232867-tkjs873npl5aldudbb3h41obsfhlv3vv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
